@@ -684,8 +684,6 @@
   ('urllib3',
    'c:\\python27\\lib\\site-packages\\urllib3\\__init__.py',
    'PYMODULE'),
-  ('ctypes', 'c:\\python27\\lib\\ctypes\\__init__.py', 'PYMODULE'),
-  ('ctypes._endian', 'c:\\python27\\lib\\ctypes\\_endian.py', 'PYMODULE'),
   ('subprocess', 'c:\\python27\\lib\\subprocess.py', 'PYMODULE'),
   ('_strptime', 'c:\\python27\\lib\\_strptime.py', 'PYMODULE'),
   ('pythoncom', 'c:\\python27\\lib\\site-packages\\pythoncom.py', 'PYMODULE'),
@@ -703,4 +701,6 @@
   ('pyHook.cpyHook',
    'c:\\python27\\lib\\site-packages\\pyHook\\cpyHook.py',
    'PYMODULE'),
-  ('new', 'c:\\python27\\lib\\new.py', 'PYMODULE')])
+  ('new', 'c:\\python27\\lib\\new.py', 'PYMODULE'),
+  ('ctypes', 'c:\\python27\\lib\\ctypes\\__init__.py', 'PYMODULE'),
+  ('ctypes._endian', 'c:\\python27\\lib\\ctypes\\_endian.py', 'PYMODULE')])
